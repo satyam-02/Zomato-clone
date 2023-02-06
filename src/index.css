@@ -1,0 +1,13 @@
+@import "./styles/common.css";
+@import "./styles/variables.css";
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap"); 
+body{
+    box-sizing:border-box;
+    margin:0;
+    font-family: "Nunito";
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
